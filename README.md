@@ -1,5 +1,5 @@
 # homebrew-tap
-Homebrew Formula by aylei
+Homebrew Formulae by aylei
 
 ```shell
 brew tap aylei/tap
