@@ -2,9 +2,9 @@
 class KubectlDebug < Formula
   desc "Debug your pod by a new container with every troubleshooting tools pre-installed"
   homepage "https://www.github.com/aylei/kubectl-debug"
-  url "https://github.com/aylei/kubectl-debug/releases/download/v0.1.1/kubectl-debug_0.1.1_darwin_amd64.tar.gz"
-  version "0.1.1"
-  sha256 "cbcbfaf1b13fe264169bf805035cf758691aa3d9093760723673bef8c583509c"
+  url "https://github.com/aylei/kubectl-debug/releases/download/v0.2.0-rc/kubectl-debug_0.2.0-rc_darwin_amd64.tar.gz"
+  version "0.2.0-rc"
+  sha256 "7ec9c357160113ccca58b30103eae32d31f2d12ca556d3c34842f3fd6210bfd7"
 
   def install
     bin.install "kubectl-debug"
